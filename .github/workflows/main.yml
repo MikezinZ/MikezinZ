@@ -1,20 +1,38 @@
-name: Generate Datas
+name: Generate Snake Animation
+
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  # Roda a cada 6 horas ou quando você mandar manualmente
+  schedule:
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
+
+    # A PARTE MAIS IMPORTANTE ESTÁ AQUI:
+    permissions:
+      contents: write
+
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate snake animation
+        # Usando a versão v3 que é mais estável
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: MikezinZ
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+          # Gerando as duas versões: clara e escura
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push generated files
+        # Usando a versão v3 da action de push
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
