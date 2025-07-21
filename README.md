@@ -24,3 +24,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MikezinZ&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
+
+---
+
+![Snake animation](https://github.com/MikezinZ/MikezinZ/blob/output/github-contribution-grid-snake.svg)
