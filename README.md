@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 Minhas Ferramentas
+### 🚀 My Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,java,c,express,django,postgres,mongodb,docker,git&perline=6" alt="Habilidades"/>
@@ -19,7 +19,7 @@
 
 ---
 
-### 🏆 Conquistas no GitHub
+### 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MikezinZ&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
