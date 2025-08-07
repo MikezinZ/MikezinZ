@@ -36,7 +36,7 @@
 
 <div align="center">
   <p>Aqui estão alguns projetos que me orgulho de ter desenvolvido. Dê uma olhada!</p>
-  <a href="https://github.com/MikezinZ/hackaton_infinity" target="_blank">
+  <a href="https://github.com/rodrigopuma/hackaton_infinity" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MikezinZ&repo=hackaton_infinity&theme=dracula&show_owner=true" alt="Card do Projeto 1">
   </a>
 </div>
