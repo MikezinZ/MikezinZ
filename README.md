@@ -39,6 +39,9 @@
   <a href="https://github.com/rodrigopuma/hackaton_infinity" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MikezinZ&repo=hackaton_infinity&theme=dracula&show_owner=true" alt="Card do Projeto 1">
   </a>
+  <a href="https://github.com/MikezinZ/Verificacao_servicos" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MikezinZ&repo=Verificacao_servicos&theme=dracula&show_owner=true" alt="Card do Projeto 2">
+  </a>
 </div>
 
 
