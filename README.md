@@ -1,65 +1,129 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Ol%C3%A1,+eu+sou+o+Miguel!+%F0%9F%91%8B;Desenvolvedor+de+Software+e+Analista+de+Dados;Transformando+ideias+em+c%C3%B3digo." alt="Texto animado de apresentação" />
-</div>
 
-<br>
+# 👋 Hi, I'm Miguel!
 
-<div align="center">
-  <h3>⚡ Sobre Mim</h3>
-  <p>
-    Sou um desenvolvedor Full Stack apaixonado por criar soluções eficientes e escaláveis. Atualmente, estou me aprofundando em Python e suas tecnologias, além de ter um bom domínio em JavaScript (Node.js e React.js) e em Java. Estou sempre buscando aprender novas ferramentas e metodologias para construir soluções inovadoras que tragam valor não só para minha formação, mas também para os projetos que desenvolvo.
-  </p>
-</div>
+### Software Developer · Data Enthusiast
 
----
+<p>
+  Turning ideas into code and constantly learning something new.
+</p>
 
-### 📊 Minhas Estatísticas no GitHub
+<a href="https://github.com/MikezinZ">
+  <img src="https://komarev.com/ghpvc/?username=MikezinZ&style=flat-square&color=00BFFF&label=Profile+Views" alt="Profile views"/>
+</a>
 
-<div align="center">
-  <a href="https://github.com/MikezinZ">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikezinZ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikezinZ&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
 </div>
 
 ---
 
-### 🛠️ Minhas Ferramentas e Tecnologias
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,java,c,express,django,postgres,mongodb,docker,git&perline=6" alt="Habilidades"/>
+I'm a Computer Science undergraduate passionate about **software development, data, and technology**.
+
+I enjoy building projects that allow me to turn ideas into practical solutions while continuously improving my programming skills.
+
+Currently, I'm focusing on strengthening my foundations in **Python, backend development, APIs, databases, and software engineering**.
+
+* 🎓 Computer Science undergraduate
+* 💻 Interested in Software Development & Data
+* 🐍 Currently deepening my Python skills
+* 🌱 Always learning and building
+* 🤝 Open to collaborations and interesting projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c" alt="Programming languages"/>
+</p>
+
+### Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend technologies"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="Databases"/>
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,github" alt="Tools and technologies"/>
 </p>
 
 ---
 
-### 🚀 Projetos em Destaque
+## 📌 Featured Projects
 
-<div align="center">
-  <p>Aqui estão alguns projetos que me orgulho de ter desenvolvido. Dê uma olhada!</p>
-  <a href="https://github.com/rodrigopuma/hackaton_infinity" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MikezinZ&repo=hackaton_infinity&theme=dracula&show_owner=true" alt="Card do Projeto 1">
-  </a>
-  <a href="https://github.com/MikezinZ/Verificacao_servicos" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MikezinZ&repo=Verificacao_servicos&theme=dracula&show_owner=true" alt="Card do Projeto 2">
-  </a>
-</div>
+### 🔎 Service Verification
 
+A project focused on monitoring and verifying services, exploring backend development and automation.
 
----
+**Technologies:** Python · APIs · Automation
 
-<div align="center">
-  <h3>🐍 Minha Cobrinha de Contribuições</h3>
-  <img src="https://github.com/MikezinZ/MikezinZ/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
+<a href="https://github.com/MikezinZ/Verificacao_servicos">
+  View repository →
+</a>
 
 ---
 
-### 🤝 Vamos Conectar!
+### 🏆 Hackathon Infinity
+
+A collaborative project developed during a hackathon, focused on building a practical technology-based solution within a limited timeframe.
+
+**Technologies:** JavaScript · Backend · Web Development
+
+<a href="https://github.com/rodrigopuma/hackaton_infinity">
+  View repository →
+</a>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <p>Se você se interessou pelo meu trabalho, quer trocar ideias sobre tecnologia ou pensar em alguma colaboração, não hesite em me chamar! Estou sempre aberto para conversar e criar algo incrível juntos.</p>
-  <br>
-  <a href="https://www.linkedin.com/in/miguelhmelo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:miguelhenriquemelo17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.instagram.com/miguel.melo110/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikezinZ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikezinZ&layout=compact&langs_count=7&theme=dracula"/>
+
+</div>
+
+---
+
+## 📈 Contributions
+
+<div align="center">
+
+<img src="https://github.com/MikezinZ/MikezinZ/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to meeting new people, discussing technology, collaborating on projects, or simply exchanging ideas.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/miguelhmelo/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:miguelhenriquemelo17@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://www.instagram.com/miguel.melo110/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
 </div>
