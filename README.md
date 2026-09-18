@@ -1,92 +1,33 @@
 <div align="center">
 
-# 👋 Hi, I'm Miguel!
+# Hi, I'm Miguel 👋
 
-### Software Developer · Data Enthusiast
-
-<p>
-  Turning ideas into code and constantly learning something new.
-</p>
-
-<a href="https://github.com/MikezinZ">
-  <img src="https://komarev.com/ghpvc/?username=MikezinZ&style=flat-square&color=00BFFF&label=Profile+Views" alt="Profile views"/>
-</a>
+**IT technician and systems development enthusiast**
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a Computer Science undergraduate passionate about **software development, data, and technology**.
+**Computer Science student focused on backend development and automation**
 
-I enjoy building projects that allow me to turn ideas into practical solutions while continuously improving my programming skills.
-
-Currently, I'm focusing on strengthening my foundations in **Python, backend development, APIs, databases, and software engineering**.
-
-* 🎓 Computer Science undergraduate
-* 💻 Interested in Software Development & Data
-* 🐍 Currently deepening my Python skills
-* 🌱 Always learning and building
-* 🤝 Open to collaborations and interesting projects
+**Constantly learning and building projects to solve real-world problems and optimize workflows. Always exploring new tools to write cleaner, more efficient code.**
 
 ---
 
-## 🛠️ Tech Stack
+## Experience
 
-### Languages
+**IT support (2024 — Present)**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c" alt="Programming languages"/>
-</p>
-
-### Backend & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend technologies"/>
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="Databases"/>
-</p>
-
-### Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,github" alt="Tools and technologies"/>
-</p>
+* Level 1 (Tier 1) ticket management and triage through Service Desk systems.
+* Troubleshooting and resolving hardware, peripheral, local network, and operating system incidents.
+* Assisting with testing, deployment, and technical support for internal software and ERP systems.
+* Infrastructure and network maintenance, supporting user access, local connectivity, and hardware lifecycle.
 
 ---
 
-## 📌 Featured Projects
-
-### 🔎 Service Verification
-
-A project focused on monitoring and verifying services, exploring backend development and automation.
-
-**Technologies:** Python · APIs · Automation
-
-<a href="https://github.com/MikezinZ/Verificacao_servicos">
-  View repository →
-</a>
-
----
-
-### 🏆 Hackathon Infinity
-
-A collaborative project developed during a hackathon, focused on building a practical technology-based solution within a limited timeframe.
-
-**Technologies:** JavaScript · Backend · Web Development
-
-<a href="https://github.com/rodrigopuma/hackaton_infinity">
-  View repository →
-</a>
-
----
-
-## 📊 GitHub Stats
+## Stats & Contributions
 
 <div align="center">
 
@@ -94,13 +35,7 @@ A collaborative project developed during a hackathon, focused on building a prac
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikezinZ&layout=compact&langs_count=7&theme=dracula"/>
 
-</div>
-
----
-
-## 📈 Contributions
-
-<div align="center">
+<br><br>
 
 <img src="https://github.com/MikezinZ/MikezinZ/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
 
@@ -108,9 +43,31 @@ A collaborative project developed during a hackathon, focused on building a prac
 
 ---
 
-## 🤝 Let's Connect
+## Tech Stack
 
-I'm always open to meeting new people, discussing technology, collaborating on projects, or simply exchanging ideas.
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java" alt="Programming languages"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend technologies"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="Databases"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker" alt="Development tools"/>
+
+</div>
+
+---
+
+## Contact
 
 <div align="center">
 
@@ -119,7 +76,7 @@ I'm always open to meeting new people, discussing technology, collaborating on p
 </a>
 
 <a href="mailto:miguelhenriquemelo17@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.instagram.com/miguel.melo110/">
